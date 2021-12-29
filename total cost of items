@@ -1,0 +1,6 @@
+s=  3*680
+cg = 1*750
+br = 2*230
+bracelet_refund= 680
+shirt_loss= (50.0/100)*680
+print("total cost = ", s+cg+br-(bracelet_refund+shirt_loss))
