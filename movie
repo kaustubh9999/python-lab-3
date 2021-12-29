@@ -1,0 +1,5 @@
+first_movie= 100
+second_movie= 150
+print("total hours of watching movie", ((float)(first_movie+second_movie)/60))
+d=int(input("enter money for 50 minutes"))
+print("paid money", (250.0/50)*d)
