@@ -1,0 +1,3 @@
+t= 275000
+m = int(input("enter the months for rainy season"))
+print("total people train carry each year ", 356*t +((15.0)/100)*t*m*30)
