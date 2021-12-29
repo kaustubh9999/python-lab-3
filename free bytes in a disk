@@ -1,0 +1,5 @@
+t= int(input("enter the free size"))
+u=int(input("enter the used space in the disk))
+o= int(input("enter the size of deleted file"))
+h= int(input("enter thesize of created file"))
+print("total free size ", t-o+h) 
